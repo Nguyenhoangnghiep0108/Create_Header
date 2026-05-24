@@ -11,6 +11,7 @@
 }
 .header_logo, .nav_list{
     display: inline-block;
+    padding: 10px;
 }
 .nav_list li{
     display: inline-block;
@@ -18,4 +19,15 @@
 }
 .nav_list li a{
     text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 20px;
+}
+#slider{
+background-image: url(/assets/images/Giai-Nhi-1--Nang-Tre.jpg);
+width: 100%;
+height: 500px;
+background-repeat: no-repeat;
+}
+.slider_paragrap p{
 }
